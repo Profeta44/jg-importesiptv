@@ -1,0 +1,911 @@
+#EXTINF:-1 tvg-name="BAND" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="ABERTOS",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+
+#EXTINF:-1 tvg-name="REDETV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="ABERTOS",REDETV
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel SD" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="DESENHOS",Disney Channel SD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_240_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="ABERTOS",ANIMAL PLANET
+http://189.91.128.150:5555/udp/227.10.20.118:1234
+
+############## SPORTS ############################
+#EXTINF:-1 tvg-name="ALL SPORTS" tvg-logo="https://imgur.com/PpfyPE9.png" group-title="ESPORTES",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ALL SPORTS" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="ESPORTES",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="ALL SPORTS TV" tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="ESPORTES",ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w551391727.m3u8
+
+#EXTINF:-1 tvg-name="All Sports BR" tvg-logo="http://i.imgur.com/HozFynS.png" group-title="ESPORTES",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="BFM SPORT" tvg-logo="https://imgur.com/vn8tPtT.png" group-title="ESPORTES",BFM SPORT
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="ESPORTES",Band Sports
+http://evpp.mm.uol.com.br:1935/geob_band/bandsports/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="CANAL ESPORTES ONLINE" tvg-logo="https://imgur.com/04KQLZ6.png" group-title="ESPORTES",CANAL ESPORTES ONLINE
+https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CDO" tvg-logo="https://imgur.com/PVjBDUE.png" group-title="ESPORTES",CDO
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="ESPORTES",Combate
+http://painel.pjtiptv.com.br/video.m3u8?acesso=d0fd8530c19d172698e15d208580094a&usuario=dc07e61cc7d7064773ad766e52b7cb89
+
+#EXTINF:-1 tvg-name="DAZN" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="ESPORTES",DAZN
+http://painel.pjtiptv.com.br/video.m3u8?acesso=06ab9982b43ef26aca3110594767ff83&usuario=dc07e61cc7d7064773ad766e52b7cb89
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png" group-title="ESPORTES",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="ESPORTES",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="ESPORTES",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN BRASIL FHD" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="ESPORTES",ESPN BRASIL FHD
+http://akamaizedx.com:80/i982506x/2378361/6287
+
+#EXTINF:-1 tvg-name="ESPN BRASIL HD" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN BRASIL HD
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN BRASIL SD" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN BRASIL SD
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_240_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN Brasil HD" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/OeC9hcZ.png" group-title="ESPORTES",ESPN EXTRA SD
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Extra" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="ESPORTES",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN Extra HD" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="ESPORTES",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png" group-title="ESPORTES",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://thejewishnews.com/wp-content/uploads/2018/06/ESPN_logos.png" group-title="ESPORTES",ESPN SD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 SD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas-249x140.png" group-title="ESPORTES",ESPN2 SD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports
+http://painel.pjtiptv.com.br/video.m3u8?acesso=69b17a600ab6da05993c7f25f5cefaa5&usuario=dc07e61cc7d7064773ad766e52b7cb89
+
+#EXTINF:-1 tvg-name="Fox Sports HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-fox-sports-online-ao-vivo-1-249x140.png" group-title="ESPORTES",Fox Sports HD
+http://esrv.cc:80/luciane1234/luciane1234/31862
+
+#EXTINF:-1 tvg-name="PT SPORT TV 1" tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="ESPORTES",PT SPORT TV 1
+http://akamaizedx.com:80/i982506x/2378361/10040691
+
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="ESPORTES",Premiere Clubes
+http://painel.pjtiptv.com.br/video.m3u8?acesso=1d8df0cac5e2a8e7e7e5cd01a97e1643&usuario=dc07e61cc7d7064773ad766e52b7cb89
+
+#EXTINF:-1 tvg-name="REAL MADRI TV - REAL MADRID TV" tvg-logo="https://imgur.com/f7HK5PJ.png" group-title="ESPORTES",REAL MADRI TV - REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-name="REAL MADRI TV - Real Madrid TV" tvg-logo="https://imgur.com/f7HK5PJ.png" group-title="ESPORTES",REAL MADRI TV - Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+
+#EXTINF:-1 tvg-name="RS NEWS WEB TV" tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://listaiptv.gratis/logos/imagens/realmadrid.jpg" group-title="ESPORTES",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="ESPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="ESPORTES",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV - TV RED BULL - REDBULL TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="ESPORTES",Red Bull TV - TV RED BULL - REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV 1HD POR" tvg-logo="http://onlinetvhd.net/tv/SPORT-TV-1-PT-100px.jpg" group-title="ESPORTES",SPORT TV 1HD POR
+http://89.187.169.203:2200/NL/sporttv1-por/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV 2HD POR" tvg-logo="http://onlinetvhd.net/tv/SPORT-TV-2-PT-100px.jpg" group-title="ESPORTES",SPORT TV 2HD POR
+http://89.187.169.203:2200/NL/sporttv2-por/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV 3HD POR" tvg-logo="http://onlinetvhd.net/tv/SPORT-TV-3-PT-100px.jpg" group-title="ESPORTES",SPORT TV 3HD POR
+http://89.187.169.203:2200/NL/sporttv3-por/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="ESPORTES",SporTV
+http://painel.pjtiptv.com.br/video.m3u8?acesso=39a0faf82bba3d374de929628180d121&usuario=dc07e61cc7d7064773ad766e52b7cb89
+
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-sportv-ao-vivo-online-1-249x140.png" group-title="ESPORTES",SporTV FHD
+http://srvx.io:80/0467707740/fireurl.co/71960
+
+#EXTINF:-1 tvg-name="TELETRACK" tvg-logo="https://imgur.com/AkcsVlD.png" group-title="ESPORTES",TELETRACK
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV ADQS" tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES",TV ADQS
+https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV DUBAI RACING" tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV DUBAI RACING 2" tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="ESPORTES",Trace Sport Stars
+https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="WEB TV SO INFORMACAO" tvg-logo="https://imgur.com/IAUID0I.png" group-title="ESPORTES",WEB TV SO INFORMACAO
+https://livefocamundo.com:8081/8402/index.m3u8
+##############
+#EXTINF:-1 tvg-name="Aeroporto de Congonhas de São Paulo" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="CÂMERAS",Aeroporto de Congonhas de São Paulo
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-name="RECORD ES" tvg-logo="https://listaiptv.gratis/logos/imagens/tvvitoria.png" group-title="ABERTOS",RECORD ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-name="REDE MINAS" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="ABERTOS",REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-name="TV GAZETA MA" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVGAZETA.png" group-title="ABERTOS",TV GAZETA MA
+http://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8
+#####################FILMES ##################################
+#EXTINF:-1 tvg-name="007 - Cassino Royale (1967)" tvg-logo="https://cdn.ome.lt/legacy/imagens/diversos/cassinoroyale1967poster.jpg" group-title="FILMES | AÇÃO",007 - Cassino Royale (1967)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64839.mp4
+
+#EXTINF:-1 tvg-name="007 - Operação Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="FILMES | AÇÃO",007 - Operação Skyfall (2012)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64837.mp4
+
+#EXTINF:-1 tvg-name="007 - Quantum of Solace" tvg-logo="https://fr.web.img6.acsta.net/medias/nmedia/18/65/88/24/18996229.jpg" group-title="FILMES | AÇÃO",007 - Quantum of Solace
+http://chronostv.com:80/movie/michel85leite/trp4d036/64836.mp4
+
+#EXTINF:-1 tvg-name="007 Contra Spectre (2015)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1a/Spectre-007.png" group-title="FILMES | AÇÃO",007 Contra Spectre (2015)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64838.mp4
+
+#EXTINF:-1 tvg-name="1 (2013)" tvg-logo="https://fwcdn.pl/fpo/10/02/701002/7612963.6.jpg" group-title="FILMES | AÇÃO",1 (2013)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64833.mp4
+
+#EXTINF:-1 tvg-name="12 Rounds (2000)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1ilT7ixvzL._AC_SY445_.jpg" group-title="FILMES | AÇÃO",12 Rounds (2000)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64835.mp4
+
+#EXTINF:-1 tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="FILMES | AÇÃO",13 Horas: Os Soldados Secretos de Benghazi (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99518.mp4
+
+#EXTINF:-1 tvg-name="13º Distrito (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJwAFbjWXdbu0nl8wZPYn1VZkNj.jpg" group-title="FILMES | AÇÃO",13º Distrito (2014)
+http://chronostv.com:80/movie/michel85leite/trp4d036/76022.mp4
+
+#EXTINF:-1 tvg-name="15 Minutos de Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="FILMES | AÇÃO",15 Minutos de Guerra (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99963.mkv
+
+#EXTINF:-1 tvg-name="1918 – A Batalha de Kruty" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="FILMES | AÇÃO",1918 – A Batalha de Kruty
+http://chronostv.com:80/movie/michel85leite/trp4d036/80497.mp4
+
+#EXTINF:-1 tvg-name="2 Campeões de Shaolin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPMAJR7fKYT1B605lAv9JZsMbEi.jpg" group-title="FILMES | AÇÃO",2 Campeões de Shaolin
+http://chronostv.com:80/movie/michel85leite/trp4d036/82126.mkv
+
+#EXTINF:-1 tvg-name="2012 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x41qAERATedHCuvpADDgDoSjrsq.jpg" group-title="FILMES | AÇÃO",2012 (2009)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99523.mp4
+
+#EXTINF:-1 tvg-name="211 - O Grande Assalto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGvFQ1pB3YebdXYY0IsQfEIzm1C.jpg" group-title="FILMES | AÇÃO",211 - O Grande Assalto (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64832.mp4
+
+#EXTINF:-1 tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="FILMES | AÇÃO",22 Balas (2010)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64831.mp4
+
+#EXTINF:-1 tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcHq8q0cW49YlACLhwtknMtBv23.jpg" group-title="FILMES | AÇÃO",22 Milhas (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64830.mp4
+
+#EXTINF:-1 tvg-name="300" tvg-logo="https://i.pinimg.com/originals/20/3c/f6/203cf6e3c38f11c20a773772f16966f3.jpg" group-title="FILMES | AÇÃO",300
+http://chronostv.com:80/movie/michel85leite/trp4d036/64829.mp4
+
+#EXTINF:-1 tvg-name="300 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXb30biVItPuNY3scjbcZ70oxD.jpg" group-title="FILMES | AÇÃO",300 (2007)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99520.mp4
+
+#EXTINF:-1 tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="FILMES | AÇÃO",300: A Ascensão do Império (2014)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99521.mp4
+
+#EXTINF:-1 tvg-name="5 Dias de Guerra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnMThO1o6zyKAY0C3LUmccVg7SU.jpg" group-title="FILMES | AÇÃO",5 Dias de Guerra (2011)
+http://chronostv.com:80/movie/michel85leite/trp4d036/95547.mp4
+
+#EXTINF:-1 tvg-name="60 Segundos (2000)" tvg-logo="https://i.pinimg.com/originals/72/77/79/7277790c7a4dd99b680d95cd87ecac36.jpg" group-title="FILMES | AÇÃO",60 Segundos (2000)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64827.mp4
+
+#EXTINF:-1 tvg-name="7 Segundos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnm2lbuQxkRJhg135Jwb5dicJVZ.jpg" group-title="FILMES | AÇÃO",7 Segundos (2005)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100623.mkv
+
+#EXTINF:-1 tvg-name="9º Pelotão (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7Dyb6cs5td1DJWh1efMpi2HTa7.jpg" group-title="FILMES | AÇÃO",9º Pelotão (2005)
+http://chronostv.com:80/movie/michel85leite/trp4d036/94094.mp4
+
+#EXTINF:-1 tvg-name="A 5ª Onda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asPv5M6bUn270EcUXUnEnC8CkB7.jpg" group-title="FILMES | AÇÃO",A 5ª Onda (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99525.mp4
+
+#EXTINF:-1 tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="FILMES | AÇÃO",A Caçada (2020)
+http://chronostv.com:80/movie/michel85leite/trp4d036/90089.mkv
+
+#EXTINF:-1 tvg-name="A Familia (2013)" tvg-logo="data:image/jpeg;base64,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" group-title="FILMES | AÇÃO",A Familia (2013)
+http://chronostv.com:80/movie/michel85leite/trp4d036/111953.mkv
+
+#EXTINF:-1 tvg-name="A Fúria do Dragão (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWrbGeXznk4whASCTxOX8a8wM2U.jpg" group-title="FILMES | AÇÃO",A Fúria do Dragão (1972)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64863.mp4
+
+#EXTINF:-1 tvg-name="A Grande Muralha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg" group-title="FILMES | AÇÃO",A Grande Muralha (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64826.mp4
+
+#EXTINF:-1 tvg-name="A Hora do Rush 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="FILMES | AÇÃO",A Hora do Rush 3
+http://chronostv.com:80/movie/michel85leite/trp4d036/83138.mp4
+
+#EXTINF:-1 tvg-name="A Hospedeira" tvg-logo="https://1.bp.blogspot.com/-EWYo6sScotM/Uc1w5OY7tsI/AAAAAAAAMZ8/XKe5Lw6QKJ0/s386/A+Hospedeira+-+LitoralFilmes.jpg" group-title="FILMES | AÇÃO",A Hospedeira
+http://chronostv.com:80/movie/michel85leite/trp4d036/64825.mp4
+
+#EXTINF:-1 tvg-name="A Identidade Bourne (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2q17OHj5coMCq1cwWQ3V7AQhMF.jpg" group-title="FILMES | AÇÃO",A Identidade Bourne (2002)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64824.mp4
+
+#EXTINF:-1 tvg-name="A Identidade Bourne 2" tvg-logo="http://suadns.xyz:25461/images/bXQIL36VQdzJ69lcjQR1WQzJqQR_small.jpg" group-title="FILMES | AÇÃO",A Identidade Bourne 2
+http://chronostv.com:80/movie/michel85leite/trp4d036/64823.mp4
+
+#EXTINF:-1 tvg-name="A Identidade Bourne 3" tvg-logo="http://suadns.xyz:25461/images/bXQIL36VQdzJ69lcjQR1WQzJqQR_small.jpg" group-title="FILMES | AÇÃO",A Identidade Bourne 3
+http://chronostv.com:80/movie/michel85leite/trp4d036/64822.mp4
+
+#EXTINF:-1 tvg-name="A Identidade Bourne 4" tvg-logo="http://suadns.xyz:25461/images/bXQIL36VQdzJ69lcjQR1WQzJqQR_small.jpg" group-title="FILMES | AÇÃO",A Identidade Bourne 4
+http://chronostv.com:80/movie/michel85leite/trp4d036/64821.mp4
+
+#EXTINF:-1 tvg-name="A Ilha (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QSjoEV34C2w2LFhSfVgBtMrm25.jpg" group-title="FILMES | AÇÃO",A Ilha (2009)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100932.mkv
+
+#EXTINF:-1 tvg-name="A Ilha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zm5YEMg4iJcHAfgYhvIVefnqGH.jpg" group-title="FILMES | AÇÃO",A Ilha (2013)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64820.mp4
+
+#EXTINF:-1 tvg-name="A Jornada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHEOX7ohRs4yCEh4KJy0eKqO3qi.jpg" group-title="FILMES | AÇÃO",A Jornada
+http://chronostv.com:80/movie/michel85leite/trp4d036/99475.mkv
+
+#EXTINF:-1 tvg-name="A Lenda de Tarzan (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="FILMES | AÇÃO",A Lenda de Tarzan (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/55834.mp4
+
+#EXTINF:-1 tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgFUi4xTual7RkcyobhP76Ctx6A.jpg" group-title="FILMES | AÇÃO",A Lenda do Mestre Chinês (2011)
+http://chronostv.com:80/movie/michel85leite/trp4d036/65061.mp4
+
+#EXTINF:-1 tvg-name="A Lenda do Rei Macaco 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq8hRZgUlGrdyrwZJ2ErRSVKuCF.jpg" group-title="FILMES | AÇÃO",A Lenda do Rei Macaco 2
+http://chronostv.com:80/movie/michel85leite/trp4d036/76736.mp4
+
+#EXTINF:-1 tvg-name="A Maldição da Flor Dourada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Oxq3N1Z20rpKIA6ddXIVaGrtB.jpg" group-title="FILMES | AÇÃO",A Maldição da Flor Dourada
+http://chronostv.com:80/movie/michel85leite/trp4d036/83529.mkv
+
+#EXTINF:-1 tvg-name="A Máscara do Zorro (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkHYspXHYZHdrkXxtgb7hXZUg2I.jpg" group-title="FILMES | AÇÃO",A Máscara do Zorro (1998)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64819.mp4
+
+#EXTINF:-1 tvg-name="A Múmia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBzHFqizPDbN9mOjrc0Lm1KP4I6.jpg" group-title="FILMES | AÇÃO",A Múmia (1999)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64818.mp4
+
+#EXTINF:-1 tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCxL9PrN0ymx7AW9g5NgSyYSuyV.jpg" group-title="FILMES | AÇÃO",A Múmia - Tumba do Imperador Dragão (2008)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64816.mp4
+
+#EXTINF:-1 tvg-name="A Noite nos Persegue (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="FILMES | AÇÃO",A Noite nos Persegue (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64815.mp4
+
+#EXTINF:-1 tvg-name="A Origem do Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | AÇÃO",A Origem do Dragão
+http://chronostv.com:80/movie/michel85leite/trp4d036/82716.mkv
+
+#EXTINF:-1 tvg-name="A Outra Face da Violência (1977)" tvg-logo="https://media.fstatic.com/7pLqbFO2nDcVnJ0meOptjdR-T1I=/fit-in/290x478/smart/media/movies/covers/2013/01/30d3ec991232fafae1465f619632dcd2.jpg" group-title="FILMES | AÇÃO",A Outra Face da Violência (1977)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64814.mp4
+
+#EXTINF:-1 tvg-name="A Senha: Swordfish (2001)" tvg-logo="https://image.tmdb.org/t/p/w500/vaFp9zQAQKa1goZhGJn4KavhWbF.jpg" group-title="FILMES | AÇÃO",A Senha: Swordfish (2001)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64813.mp4
+
+#EXTINF:-1 tvg-name="A Sociedade Secreta de Souptown (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvdgCz74A8rqOYk6TU6JrXR38RO.jpg" group-title="FILMES | AÇÃO",A Sociedade Secreta de Souptown (2015)
+http://chronostv.com:80/movie/michel85leite/trp4d036/76737.mp4
+
+#EXTINF:-1 tvg-name="A Série Divergente: Convergente" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/42/Divergent_Series_Allegiant.jpg" group-title="FILMES | AÇÃO",A Série Divergente: Convergente
+http://chronostv.com:80/movie/michel85leite/trp4d036/64812.mp4
+
+#EXTINF:-1 tvg-name="A Série Divergente: Insurgente" tvg-logo="https://fr.web.img2.acsta.net/pictures/15/01/28/18/08/152985.jpg" group-title="FILMES | AÇÃO",A Série Divergente: Insurgente
+http://chronostv.com:80/movie/michel85leite/trp4d036/64811.mp4
+
+#EXTINF:-1 tvg-name="A Toda Prova (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg" group-title="FILMES | AÇÃO",A Toda Prova (2011)
+http://chronostv.com:80/movie/michel85leite/trp4d036/112978.mkv
+
+#EXTINF:-1 tvg-name="A Vigilante do Amanhã: Ghost in the Shell (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPvWQRAlYLx72ahAHr9ORdeJA4.jpg" group-title="FILMES | AÇÃO",A Vigilante do Amanhã: Ghost in the Shell (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64809.mp4
+
+#EXTINF:-1 tvg-name="Acerto de Contas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L9q3NWcqWu1mQAkfxCHd17V9tM.jpg" group-title="FILMES | AÇÃO",Acerto de Contas
+http://chronostv.com:80/movie/michel85leite/trp4d036/99495.mp4
+
+#EXTINF:-1 tvg-name="Adrenalina (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3Ox9qQyUXVoXcYZEBNfUeuqaS.jpg" group-title="FILMES | AÇÃO",Adrenalina (2006)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100492.mkv
+
+#EXTINF:-1 tvg-name="Adrenalina 2 - Alta Voltagem (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LXgxmu0pgDlVO4cIElA6HgnwFL.jpg" group-title="FILMES | AÇÃO",Adrenalina 2 - Alta Voltagem (2009)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100385.mkv
+
+#EXTINF:-1 tvg-name="Adrenalina em Bangkok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ELgW54RM4PpL5dYoUvXAyeJ8Pg.jpg" group-title="FILMES | AÇÃO",Adrenalina em Bangkok
+http://chronostv.com:80/movie/michel85leite/trp4d036/76611.mp4
+
+#EXTINF:-1 tvg-name="Agente 86 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rdsg8ZQ3vNmSkYse4MIoGzK8lZ.jpg" group-title="FILMES | AÇÃO",Agente 86 (2008)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99494.mp4
+
+#EXTINF:-1 tvg-name="Agente Asher (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lLGIi5aAwT3Pdp4m2YUARBkdG7.jpg" group-title="FILMES | AÇÃO",Agente Asher (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/72133.mp4
+
+#EXTINF:-1 tvg-name="Allan Quatermain e as Minas do Rei Salomão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQzTpAbaMtoTBfnBFuOxZDxbxYT.jpg" group-title="FILMES | AÇÃO",Allan Quatermain e as Minas do Rei Salomão (1985)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100934.mkv
+
+#EXTINF:-1 tvg-name="Alma de Guerreiro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g20Xg263ckStqtHwvoQHfxb5UUt.jpg" group-title="FILMES | AÇÃO",Alma de Guerreiro (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/117910.mkv
+
+#EXTINF:-1 tvg-name="Alta Velocidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvyrbpCvTtCmcWIntQuXzuQUZr8.jpg" group-title="FILMES | AÇÃO",Alta Velocidade
+http://chronostv.com:80/movie/michel85leite/trp4d036/79835.mp4
+
+#EXTINF:-1 tvg-name="Amanhecer Violento" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/Red_Dawn_%282012%29.jpg" group-title="FILMES | AÇÃO",Amanhecer Violento
+http://chronostv.com:80/movie/michel85leite/trp4d036/64808.mp4
+
+#EXTINF:-1 tvg-name="American Kickboxer 2 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ba3O5xbfTc8gKvV7KPF8BAhKju.jpg" group-title="FILMES | AÇÃO",American Kickboxer 2 (1993)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64942.mp4
+
+#EXTINF:-1 tvg-name="Anaconda (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huhasXFLrKfPHEqbz4ALadOnXZZ.jpg" group-title="FILMES | AÇÃO",Anaconda (1997)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64807.mp4
+
+#EXTINF:-1 tvg-name="Anaconda 3 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5j78QYzjr81HIcYvCuhx105eXP.jpg" group-title="FILMES | AÇÃO",Anaconda 3 (2008)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64806.mp4
+
+#EXTINF:-1 tvg-name="Anaconda 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCp9VYqvBphiETtC86fGZFSXc63.jpg" group-title="FILMES | AÇÃO",Anaconda 4
+http://chronostv.com:80/movie/michel85leite/trp4d036/94359.mp4
+
+#EXTINF:-1 tvg-name="Anjos da Vida - Mais Bravos que o Mar" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/12/55/20181936.jpg" group-title="FILMES | AÇÃO",Anjos da Vida - Mais Bravos que o Mar
+http://chronostv.com:80/movie/michel85leite/trp4d036/64804.mp4
+
+#EXTINF:-1 tvg-name="Anoitecer Violento 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zunoHQIk5ZbN1vf3NKqGiqJc3k2.jpg" group-title="FILMES | AÇÃO",Anoitecer Violento 2
+http://chronostv.com:80/movie/michel85leite/trp4d036/94231.mp4
+
+#EXTINF:-1 tvg-name="Apocalypto (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg" group-title="FILMES | AÇÃO",Apocalypto (2006)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64803.mp4
+
+#EXTINF:-1 tvg-name="Aprendiz de Espiã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blbL1lzd1cz1VElQQCPhnfU5HGy.jpg" group-title="FILMES | AÇÃO",Aprendiz de Espiã
+http://chronostv.com:80/movie/michel85leite/trp4d036/75861.mp4
+
+#EXTINF:-1 tvg-name="Aranhas Assassinas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTL1jZwLN4x5zx6NDCWGY1zC4cW.jpg" group-title="FILMES | AÇÃO",Aranhas Assassinas
+http://chronostv.com:80/movie/michel85leite/trp4d036/82729.mkv
+
+#EXTINF:-1 tvg-name="Arranha-Céu: Coragem Sem Limite (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY8ED3FJfaKJKXEfTmBBEI9QLqY.jpg" group-title="FILMES | AÇÃO",Arranha-Céu: Coragem Sem Limite (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64802.mp4
+
+#EXTINF:-1 tvg-name="Arsenal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vwgGqWge0PRZqhbqOW7WCVK2V.jpg" group-title="FILMES | AÇÃO",Arsenal (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100622.mkv
+
+#EXTINF:-1 tvg-name="Assassin's Creed (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Cxn5MxH3dDBXauIq6XusR1ZUKJ.jpg" group-title="FILMES | AÇÃO",Assassin's Creed (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64801.mp4
+
+#EXTINF:-1 tvg-name="Assassinato no Grupo de Mães" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4f17AjbME8Us3CR5IRQlvz5QZY.jpg" group-title="FILMES | AÇÃO",Assassinato no Grupo de Mães
+http://chronostv.com:80/movie/michel85leite/trp4d036/82728.mkv
+
+#EXTINF:-1 tvg-name="Assassino a Preço Fixo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbO2OzFiWt9cEjgZfSOnp75ihGE.jpg" group-title="FILMES | AÇÃO",Assassino a Preço Fixo (2011)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64800.mp4
+
+#EXTINF:-1 tvg-name="Assassino a Preço Fixo 2 - A Ressurreição (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNdYyWMMpEHWsMALjko1QCpAZVM.jpg" group-title="FILMES | AÇÃO",Assassino a Preço Fixo 2 - A Ressurreição (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64799.mp4
+
+#EXTINF:-1 tvg-name="Atentado em Paris" tvg-logo="https://br.web.img3.acsta.net/pictures/16/03/10/09/10/546405.jpg" group-title="FILMES | AÇÃO",Atentado em Paris
+http://chronostv.com:80/movie/michel85leite/trp4d036/64887.mp4
+
+#EXTINF:-1 tvg-name="Atos de Violência (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg" group-title="FILMES | AÇÃO",Atos de Violência (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64885.mp4
+
+#EXTINF:-1 tvg-name="Atrás das Linhas Inimigas 4: Missão África (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRjvUbDaVUwBx3dXSJQoT7l2Oi1.jpg" group-title="FILMES | AÇÃO",Atrás das Linhas Inimigas 4: Missão África (2014)
+http://chronostv.com:80/movie/michel85leite/trp4d036/76100.mp4
+
+#EXTINF:-1 tvg-name="Atômica (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHnCzyinojrsuwHKsQWbtj4jH1m.jpg" group-title="FILMES | AÇÃO",Atômica (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64886.mp4
+
+#EXTINF:-1 tvg-name="Bacurau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg" group-title="FILMES | AÇÃO",Bacurau (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/88179.mp4
+
+#EXTINF:-1 tvg-name="Bad Boys" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Bad_Boys.jpg" group-title="FILMES | AÇÃO",Bad Boys
+http://chronostv.com:80/movie/michel85leite/trp4d036/64881.mp4
+
+#EXTINF:-1 tvg-name="Bad Boys Para Sempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg" group-title="FILMES | AÇÃO",Bad Boys Para Sempre
+http://chronostv.com:80/movie/michel85leite/trp4d036/72141.mp4
+
+#EXTINF:-1 tvg-name="Banho de Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGBGBgqqHf8UpuwSpwpHNeAmRct.jpg" group-title="FILMES | AÇÃO",Banho de Sangue
+http://chronostv.com:80/movie/michel85leite/trp4d036/84240.mkv
+
+#EXTINF:-1 tvg-name="Banquete no Inferno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61RknsRLF5YT1gIgSCVv4qbTt8C.jpg" group-title="FILMES | AÇÃO",Banquete no Inferno
+http://chronostv.com:80/movie/michel85leite/trp4d036/95549.mkv
+
+#EXTINF:-1 tvg-name="Batendo de Frente (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqIiOirJUmgFVQeOXY2qdvDd5yZ.jpg" group-title="FILMES | AÇÃO",Batendo de Frente (1989)
+http://chronostv.com:80/movie/michel85leite/trp4d036/109380.mkv
+
+#EXTINF:-1 tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="https://lh3.googleusercontent.com/UMQdQZpLvQ2uE9aI7jvSzQZbcLYLAZPuZYDFtieCyMPow3LvhlhOcbVvNJ-4m0fBF5w" group-title="FILMES | AÇÃO",Batman: O Cavaleiro das Trevas (2008)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64876.mp4
+
+#EXTINF:-1 tvg-name="Bem Vindo à Selva (2013)" tvg-logo="https://br.web.img2.acsta.net/pictures/14/09/11/13/59/429285.jpg" group-title="FILMES | AÇÃO",Bem Vindo à Selva (2013)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64875.mp4
+
+#EXTINF:-1 tvg-name="Ben-Hur (1959)" tvg-logo="https://i.pinimg.com/originals/ea/f4/d6/eaf4d6f4223fb10fc47c91549f98b302.jpg" group-title="FILMES | AÇÃO",Ben-Hur (1959)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64874.mp4
+
+#EXTINF:-1 tvg-name="Big Stan: Arrebentando na Prisão (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GLeoZwdksfSen4zpAvhyiSVIYb.jpg" group-title="FILMES | AÇÃO",Big Stan: Arrebentando na Prisão (2007)
+http://chronostv.com:80/movie/michel85leite/trp4d036/112982.mkv
+
+#EXTINF:-1 tvg-name="Blade II - O Caçador de Vampiros" tvg-logo="https://2.bp.blogspot.com/-htHQ0C9BCLU/VlpyrxVDgkI/AAAAAAAAXuA/50xQXfrE74U/s1600/Blade-II-Image-1.jpg" group-title="FILMES | AÇÃO",Blade II - O Caçador de Vampiros
+http://chronostv.com:80/movie/michel85leite/trp4d036/64870.mp4
+
+#EXTINF:-1 tvg-name="Blade Runner: Blecaute 2022 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzRjnUOVXyjp2WudgT7KxJLYh9D.jpg" group-title="FILMES | AÇÃO",Blade Runner: Blecaute 2022 (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64872.mp4
+
+#EXTINF:-1 tvg-name="Blade Runner: Blecaute 2022 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzRjnUOVXyjp2WudgT7KxJLYh9D.jpg" group-title="FILMES | AÇÃO",Blade Runner: Blecaute 2022 (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64871.mp4
+
+#EXTINF:-1 tvg-name="Boca do Lixo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uylT8u33yxN16YSF3plwpoBn3ZI.jpg" group-title="FILMES | AÇÃO",Boca do Lixo
+http://chronostv.com:80/movie/michel85leite/trp4d036/82727.mp4
+
+#EXTINF:-1 tvg-name="Boone: O Caçador de Recompensas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edwjpVNweid5OLUXDLa8X9o0Z5X.jpg" group-title="FILMES | AÇÃO",Boone: O Caçador de Recompensas
+http://chronostv.com:80/movie/michel85leite/trp4d036/82313.mkv
+
+#EXTINF:-1 tvg-name="101 Dálmatas (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sytZMXtuWlqqYs5lOzt5yjwFiAE.jpg" group-title="FILMES | ANIMAÇÃO",101 Dálmatas (1961)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99442.mkv
+
+#EXTINF:-1 tvg-name="101 Dálmatas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz6rT9M05abWXlU964qJ151On47.jpg" group-title="FILMES | ANIMAÇÃO",101 Dálmatas (1996)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99441.mkv
+
+#EXTINF:-1 tvg-name="A Abelha Maya: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smg2Uf596BuwztwQmb8lt2wAzDk.jpg" group-title="FILMES | ANIMAÇÃO",A Abelha Maya: O Filme
+http://chronostv.com:80/movie/michel85leite/trp4d036/79150.mkv
+
+#EXTINF:-1 tvg-name="A Bailarina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0WxvysE85rwynzZUCw36VRWiA.jpg" group-title="FILMES | ANIMAÇÃO",A Bailarina (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54708.mp4
+
+#EXTINF:-1 tvg-name="A Bela e a Fera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K9BEKVxYxRfGZpziYNBxKt3QYT.jpg" group-title="FILMES | ANIMAÇÃO",A Bela e a Fera
+http://chronostv.com:80/movie/michel85leite/trp4d036/76335.mp4
+
+#EXTINF:-1 tvg-name="A Casa Monstro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eduzrwou4Lkr8Ybflr8Wmx5CNSZ.jpg" group-title="FILMES | ANIMAÇÃO",A Casa Monstro
+http://chronostv.com:80/movie/michel85leite/trp4d036/76620.mp4
+
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5rlqHSPuqVEQTHLU6F8shD7Q9z.jpg" group-title="FILMES | ANIMAÇÃO",A Dama e o Vagabundo (1955)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54707.mp4
+
+#EXTINF:-1 tvg-name="A Era do Gelo" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/29/80/20109874.jpg" group-title="FILMES | ANIMAÇÃO",A Era do Gelo
+http://chronostv.com:80/movie/michel85leite/trp4d036/54702.mp4
+
+#EXTINF:-1 tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg" group-title="FILMES | ANIMAÇÃO",A Era do Gelo 2 (2006)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54703.mp4
+
+#EXTINF:-1 tvg-name="A Era do Gelo 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kfpCRiFbzjAkShZXFQTA2ORhDS.jpg" group-title="FILMES | ANIMAÇÃO",A Era do Gelo 3
+http://chronostv.com:80/movie/michel85leite/trp4d036/54704.mp4
+
+#EXTINF:-1 tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkKQdH4GiuQYz6qyQIyRVqWyVVT.jpg" group-title="FILMES | ANIMAÇÃO",A Era do Gelo 4 (2012)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54705.mp4
+
+#EXTINF:-1 tvg-name="A Era do Gelo: O Big Bang (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg" group-title="FILMES | ANIMAÇÃO",A Era do Gelo: O Big Bang (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/110601.mkv
+
+#EXTINF:-1 tvg-name="A Familia Do Futuro" tvg-logo="http://suadns.xyz:25461/images/oe7w9SxGmpSW1dlz5QaVVKWBEVz_small.jpg" group-title="FILMES | ANIMAÇÃO",A Familia Do Futuro
+http://chronostv.com:80/movie/michel85leite/trp4d036/54700.mp4
+
+#EXTINF:-1 tvg-name="A Família Addams (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDCIHb6BJ27PhdAz36JWc4chKlb.jpg" group-title="FILMES | ANIMAÇÃO",A Família Addams (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100411.mkv
+
+#EXTINF:-1 tvg-name="A Guarda do Leão - Um Novo Rugido (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcsp12VyKiWdxRegsCD76MMJbLw.jpg" group-title="FILMES | ANIMAÇÃO",A Guarda do Leão - Um Novo Rugido (2015)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54699.mp4
+
+#EXTINF:-1 tvg-name="A Incrível História da Pera Gigante (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDSOijmWcW6paconPJXSCC1h7y7.jpg" group-title="FILMES | ANIMAÇÃO",A Incrível História da Pera Gigante (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/111954.mkv
+
+#EXTINF:-1 tvg-name="A Lenda do Pato Sol (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efFenszsONkgeqBU0rjG9jA6g6x.jpg" group-title="FILMES | ANIMAÇÃO",A Lenda do Pato Sol (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/112942.mkv
+
+#EXTINF:-1 tvg-name="A Lenda dos Guardiões (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nCCqgCHdxuptVlFWbQbIJey6ro.jpg" group-title="FILMES | ANIMAÇÃO",A Lenda dos Guardiões (2010)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54698.mp4
+
+#EXTINF:-1 tvg-name="A Menina e o Porquinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhjdGc0BfdXsBU1CqU7N6Dsn3B9.jpg" group-title="FILMES | ANIMAÇÃO",A Menina e o Porquinho
+http://chronostv.com:80/movie/michel85leite/trp4d036/89441.mkv
+
+#EXTINF:-1 tvg-name="A Morte do Superman (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG3tTRj4ryFOQ1dGDn7DutpjDWe.jpg" group-title="FILMES | ANIMAÇÃO",A Morte do Superman (2007)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54697.mp4
+
+#EXTINF:-1 tvg-name="A Noiva Cadáver (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg" group-title="FILMES | ANIMAÇÃO",A Noiva Cadáver (2005)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54696.mp4
+
+#EXTINF:-1 tvg-name="A Nova Onda Do Imperador" tvg-logo="http://suadns.xyz:25461/images/6c4dzX5Io2i9tP30ZRnrhwjsYt7_small.jpg" group-title="FILMES | ANIMAÇÃO",A Nova Onda Do Imperador
+http://chronostv.com:80/movie/michel85leite/trp4d036/54695.mp4
+
+#EXTINF:-1 tvg-name="A Origem dos Guardiões (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLiI13YstciHqiuHCkD786wpIYn.jpg" group-title="FILMES | ANIMAÇÃO",A Origem dos Guardiões (2012)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54694.mp4
+
+#EXTINF:-1 tvg-name="A Pequena Sereia (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg" group-title="FILMES | ANIMAÇÃO",A Pequena Sereia (1989)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54693.mp4
+
+#EXTINF:-1 tvg-name="A Princesa e o Dragão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgxCWbhjld2NC3ojXSt1ZsnhOp7.jpg" group-title="FILMES | ANIMAÇÃO",A Princesa e o Dragão (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/112974.mkv
+
+#EXTINF:-1 tvg-name="A Princesa e o Sapo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg" group-title="FILMES | ANIMAÇÃO",A Princesa e o Sapo (2009)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54692.mp4
+
+#EXTINF:-1 tvg-name="Abominável" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehbExTTvIrlua6XrYfrfuT6CDpW.jpg" group-title="FILMES | ANIMAÇÃO",Abominável
+http://chronostv.com:80/movie/michel85leite/trp4d036/72132.mp4
+
+#EXTINF:-1 tvg-name="Abulele Meu Amigo Monstro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Dd75aNfNCpbUlF63tS565G3J59.jpg" group-title="FILMES | ANIMAÇÃO",Abulele Meu Amigo Monstro (2015)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99943.mp4
+
+#EXTINF:-1 tvg-name="Akira (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRFTrRSD4URQdDZ79KJ9Hg5dQdS.jpg" group-title="FILMES | ANIMAÇÃO",Akira (1988)
+http://chronostv.com:80/movie/michel85leite/trp4d036/87961.mp4
+
+#EXTINF:-1 tvg-name="Aladdin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/380Fyz8DSyNkh4Q8NLxZs2f2C6a.jpg" group-title="FILMES | ANIMAÇÃO",Aladdin (1992)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54691.mp4
+
+#EXTINF:-1 tvg-name="Alita: Anjo de Combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg" group-title="FILMES | ANIMAÇÃO",Alita: Anjo de Combate (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/113033.mp4
+
+#EXTINF:-1 tvg-name="Altered Carbon: Nova Capa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZX6ILyQJYrEZGqH7pXePQRU8GK.jpg" group-title="FILMES | ANIMAÇÃO",Altered Carbon: Nova Capa
+http://chronostv.com:80/movie/michel85leite/trp4d036/76334.mp4
+
+#EXTINF:-1 tvg-name="Amarelo é o Novo Preto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQN3wqHwvYoYIDFkKQ4QcuNQxoq.jpg" group-title="FILMES | ANIMAÇÃO",Amarelo é o Novo Preto
+http://chronostv.com:80/movie/michel85leite/trp4d036/64320.mp4
+
+#EXTINF:-1 tvg-name="Amigos Alienígenas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Sj5vBlVYfykPTDJtAsY5MHy9q.jpg" group-title="FILMES | ANIMAÇÃO",Amigos Alienígenas
+http://chronostv.com:80/movie/michel85leite/trp4d036/64364.mp4
+
+#EXTINF:-1 tvg-name="Anastasia (1962)" tvg-logo="https://i.pinimg.com/564x/79/04/98/790498924c29b0d235eff23711fcd0e3.jpg" group-title="FILMES | ANIMAÇÃO",Anastasia (1962)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54690.mp4
+
+#EXTINF:-1 tvg-name="Angry Birds 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" group-title="FILMES | ANIMAÇÃO",Angry Birds 2
+http://chronostv.com:80/movie/michel85leite/trp4d036/80500.mkv
+
+#EXTINF:-1 tvg-name="Angry Birds: O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aD2otxPLqLIq8bYFXgYVduIYsP.jpg" group-title="FILMES | ANIMAÇÃO",Angry Birds: O Filme (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54689.mp4
+
+#EXTINF:-1 tvg-name="Animais em Apuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiz3KNsePwMi9A5CYCkID6hi0C4.jpg" group-title="FILMES | ANIMAÇÃO",Animais em Apuros
+http://chronostv.com:80/movie/michel85leite/trp4d036/76005.mp4
+
+#EXTINF:-1 tvg-name="Apenas um Show: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Am8TwlG6UvPNhh8VL3mL3ZK0oJl.jpg" group-title="FILMES | ANIMAÇÃO",Apenas um Show: O Filme
+http://chronostv.com:80/movie/michel85leite/trp4d036/81818.mkv
+
+#EXTINF:-1 tvg-name="Arctic Dogs (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIMTtFwSffSbQl6hfqzX6Q4EuF3.jpg" group-title="FILMES | ANIMAÇÃO",Arctic Dogs (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100386.mkv
+
+#EXTINF:-1 tvg-name="Aristogatas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYHlvwXa7utomClnkVmFJj8ienY.jpg" group-title="FILMES | ANIMAÇÃO",Aristogatas
+http://chronostv.com:80/movie/michel85leite/trp4d036/87962.mkv
+
+#EXTINF:-1 tvg-name="As Aventuras Do Capitao Cueca" tvg-logo="http://suadns.xyz:25461/images/AjHZIkzhPXrRNE4VSLVWx6dirK9_small.jpg" group-title="FILMES | ANIMAÇÃO",As Aventuras Do Capitao Cueca
+http://chronostv.com:80/movie/michel85leite/trp4d036/54687.mp4
+
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXM3Ou7D7LErxmEQLMwcVVcJkCf.jpg" group-title="FILMES | ANIMAÇÃO",As Aventuras de Tadeo (2012)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54688.mp4
+
+#EXTINF:-1 tvg-name="As Meninas Superpoderosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bO9qndBndqRXzD44jdpWY2ETYKA.jpg" group-title="FILMES | ANIMAÇÃO",As Meninas Superpoderosas
+http://chronostv.com:80/movie/michel85leite/trp4d036/76024.mp4
+
+#EXTINF:-1 tvg-name="Asterix e o Segredo da Poção Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg" group-title="FILMES | ANIMAÇÃO",Asterix e o Segredo da Poção Mágica
+http://chronostv.com:80/movie/michel85leite/trp4d036/98924.mkv
+
+#EXTINF:-1 tvg-name="Astro Kid" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WjImKh2iXGFRuteLzXU782MJ6l.jpg" group-title="FILMES | ANIMAÇÃO",Astro Kid
+http://chronostv.com:80/movie/michel85leite/trp4d036/87542.mkv
+
+#EXTINF:-1 tvg-name="Atlantis (1996)" tvg-logo="https://image.tmdb.org/t/p/w1280/fYr0fqT9NImOuaN1QgnDHgGh4Ci.jpg" group-title="FILMES | ANIMAÇÃO",Atlantis (1996)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54686.mp4
+
+#EXTINF:-1 tvg-name="Aviões (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC2gVpxtoyhj4ERZksdOE8hwuN2.jpg" group-title="FILMES | ANIMAÇÃO",Aviões (2013)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54685.mp4
+
+#EXTINF:-1 tvg-name="Aviões 2: Heróis do Fogo ao Resgate (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DUfg9fQNHVkxr2wM8VGYDAhdeX.jpg" group-title="FILMES | ANIMAÇÃO",Aviões 2: Heróis do Fogo ao Resgate (2014)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54684.mp4
+
+#EXTINF:-1 tvg-name="Bambi (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqGWdxAYRH7uwFAhIIJdKkmCKob.jpg" group-title="FILMES | ANIMAÇÃO",Bambi (1942)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54683.mp4
+
+#EXTINF:-1 tvg-name="Bambi 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIVLCnwYynKIiAheJoEQtC8gTjq.jpg" group-title="FILMES | ANIMAÇÃO",Bambi 2 (2006)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54682.mp4
+
+#EXTINF:-1 tvg-name="Barbie A Princesa E A Pop Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18_22gkscv1YVAJGPejMJA-NgQ-8jEcOeheVOoWw9AQAx_pj1" group-title="FILMES | ANIMAÇÃO",Barbie A Princesa E A Pop Star
+http://chronostv.com:80/movie/michel85leite/trp4d036/54681.mp4
+
+#EXTINF:-1 tvg-name="Barbie Em A Cancao De Natal" tvg-logo="http://suadns.xyz:25461/images/2ugnA4SpuCjzpLEj2tr989AmY6X_small.jpg" group-title="FILMES | ANIMAÇÃO",Barbie Em A Cancao De Natal
+http://chronostv.com:80/movie/michel85leite/trp4d036/54676.mp4
+
+#EXTINF:-1 tvg-name="Barbie como Rapunzel (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FgdtwT3Ln5PX4Sa0mkA70IPVXt.jpg" group-title="FILMES | ANIMAÇÃO",Barbie como Rapunzel (2002)
+http://chronostv.com:80/movie/michel85leite/trp4d036/89442.avi
+
+#EXTINF:-1 tvg-name="Barbie e as Agentes Secretas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcxZ4WARcUoTX1ab6fvLF6sE32D.jpg" group-title="FILMES | ANIMAÇÃO",Barbie e as Agentes Secretas (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54678.mp4
+
+#EXTINF:-1 tvg-name="Barbie e o Portal Secreto (2014)" tvg-logo="https://a-static.mlcdn.com.br/618x463/livro-barbie-e-o-portal-secreto/magazineluiza/223466300/3fb113d43866af9ada93b59cbd6ee414.jpg" group-title="FILMES | ANIMAÇÃO",Barbie e o Portal Secreto (2014)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54677.mp4
+
+#EXTINF:-1 tvg-name="Barbie: A Fashion Fairytale" tvg-logo="https://s2.dmcdn.net/v/EaaJr1ROgMNKTG1fX/x1080" group-title="FILMES | ANIMAÇÃO",Barbie: A Fashion Fairytale
+http://chronostv.com:80/movie/michel85leite/trp4d036/54674.mp4
+
+#EXTINF:-1 tvg-name="Barbie: A Sereia das Pérolas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSnvYsz0qJZre1NQlLjXvImi5p8.jpg" group-title="FILMES | ANIMAÇÃO",Barbie: A Sereia das Pérolas (2013)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54680.mp4
+
+#EXTINF:-1 tvg-name="Barbie: Aventura nas Estrelas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s9CoIDiC9O1H9cdV97ogci5HdH.jpg" group-title="FILMES | ANIMAÇÃO",Barbie: Aventura nas Estrelas (2016)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54679.mp4
+
+#EXTINF:-1 tvg-name="Batman Vs  As Tartarugas Ninjas" tvg-logo="https://http2.mlstatic.com/batman-vs-tartarugas-ninja-2019-dvd-dublado-D_NQ_NP_955561-MLB30584592708_052019-F.jpg" group-title="FILMES | ANIMAÇÃO",Batman Vs  As Tartarugas Ninjas
+http://chronostv.com:80/movie/michel85leite/trp4d036/64259.mp4
+
+#EXTINF:-1 tvg-name="Bob Esponja - Um Heroi Fora Dagua" tvg-logo="http://suadns.xyz:25461/images/9wChSuUoQDiBKUnGTcYMkzRha60_small.jpg" group-title="FILMES | ANIMAÇÃO",Bob Esponja - Um Heroi Fora Dagua
+http://chronostv.com:80/movie/michel85leite/trp4d036/54673.mp4
+
+#EXTINF:-1 tvg-name="Bons Meninos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg" group-title="FILMES | ANIMAÇÃO",Bons Meninos (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/99440.mkv
+
+#EXTINF:-1 tvg-name="Caninos Brancos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sIHDlr8tFcx2oy6tvCLtxtdPeQ.jpg" group-title="FILMES | ANIMAÇÃO",Caninos Brancos
+http://chronostv.com:80/movie/michel85leite/trp4d036/94222.mkv
+
+#EXTINF:-1 tvg-name="Capitão Dentes de Sabre e o Diamante Mágico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhxWyLscNxa2cSIkr3OzCA0QKKV.jpg" group-title="FILMES | ANIMAÇÃO",Capitão Dentes de Sabre e o Diamante Mágico
+http://chronostv.com:80/movie/michel85leite/trp4d036/76027.mp4
+
+#EXTINF:-1 tvg-name="Carros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="FILMES | ANIMAÇÃO",Carros
+http://chronostv.com:80/movie/michel85leite/trp4d036/82219.mp4
+
+#EXTINF:-1 tvg-name="Carros - As Grandes Histórias do Mate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPQ7ExiKJ5zJKhw6Ya8vqcT7r9c.jpg" group-title="FILMES | ANIMAÇÃO",Carros - As Grandes Histórias do Mate
+http://chronostv.com:80/movie/michel85leite/trp4d036/82218.mkv
+
+#EXTINF:-1 tvg-name="Carros 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIKaabvE40T39nOIngcZPcPJeYe.jpg" group-title="FILMES | ANIMAÇÃO",Carros 2
+http://chronostv.com:80/movie/michel85leite/trp4d036/82220.mkv
+
+#EXTINF:-1 tvg-name="Carros 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="FILMES | ANIMAÇÃO",Carros 3
+http://chronostv.com:80/movie/michel85leite/trp4d036/82221.mkv
+
+#EXTINF:-1 tvg-name="Cavaleiros Do Zodiaco O Filme Prologo Do Ceu" tvg-logo="http://2.bp.blogspot.com/-mK51W-EhpKw/UhIh9P7PVvI/AAAAAAAAGnw/sx0a3PgXoPc/s1600/Os+Cavaleiros+Do+Zodiaco+-+Pr%C3%B3logo+Do+C%C3%A9u.jpg" group-title="FILMES | ANIMAÇÃO",Cavaleiros Do Zodiaco O Filme Prologo Do Ceu
+http://chronostv.com:80/movie/michel85leite/trp4d036/54672.mp4
+
+#EXTINF:-1 tvg-name="Cegonhas A Historia Que Nao Te Contaram" tvg-logo="http://suadns.xyz:25461/images/5qVD5TD1CiALR5vUsMzh2BschVU_small.jpg" group-title="FILMES | ANIMAÇÃO",Cegonhas A Historia Que Nao Te Contaram
+http://chronostv.com:80/movie/michel85leite/trp4d036/54671.mp4
+
+#EXTINF:-1 tvg-name="Christopher Robin: Um Reencontro Inesquecível (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg" group-title="FILMES | ANIMAÇÃO",Christopher Robin: Um Reencontro Inesquecível (2018)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54670.mp4
+
+#EXTINF:-1 tvg-name="Cinderela e o Príncipe Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caMtietnPdDz8EHSgH3nzijhEws.jpg" group-title="FILMES | ANIMAÇÃO",Cinderela e o Príncipe Secreto
+http://chronostv.com:80/movie/michel85leite/trp4d036/64354.avi
+
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpQSFj8A5jyUZStwzWfKpoJoAx.jpg" group-title="FILMES | ANIMAÇÃO",Como Treinar o Seu Dragão (2010)
+http://chronostv.com:80/movie/michel85leite/trp4d036/80501.mp4
+
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="FILMES | ANIMAÇÃO",Como Treinar o Seu Dragão 3 (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/80502.mkv
+
+#EXTINF:-1 tvg-name="Como Treinar o seu Dragão 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brmRmSagvnQVgIw1lBF4CaKpaoU.jpg" group-title="FILMES | ANIMAÇÃO",Como Treinar o seu Dragão 2 (2014)
+http://chronostv.com:80/movie/michel85leite/trp4d036/64352.mp4
+
+#EXTINF:-1 tvg-name="Corgi: Top Dog" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cveyUu9NOKv1wrA9Ud7sdCnNYkB.jpg" group-title="FILMES | ANIMAÇÃO",Corgi: Top Dog
+http://chronostv.com:80/movie/michel85leite/trp4d036/75650.mp4
+
+#EXTINF:-1 tvg-name="Detona Ralph (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIGPuxIZ4ETJfTpZWEYH32zur5d.jpg" group-title="FILMES | ANIMAÇÃO",Detona Ralph (2012)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54668.mp4
+
+#EXTINF:-1 tvg-name="Deu a Louca na Chapeuzinho (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsScGMpLG1XzY0MWNeRUVsPlBU5.jpg" group-title="FILMES | ANIMAÇÃO",Deu a Louca na Chapeuzinho (2005)
+http://chronostv.com:80/movie/michel85leite/trp4d036/114051.mkv
+
+#EXTINF:-1 tvg-name="Dinossauro (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aYipPdXLJO2d7Aoa9gnLXHlQfz.jpg" group-title="FILMES | ANIMAÇÃO",Dinossauro (2000)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54667.mp4
+
+#EXTINF:-1 tvg-name="Divertida Mente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg" group-title="FILMES | ANIMAÇÃO",Divertida Mente (2015)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54666.mp4
+
+#EXTINF:-1 tvg-name="Dora e a Cidade Perdida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn6uvrCTymyl9dYkoU2XDODC8IC.jpg" group-title="FILMES | ANIMAÇÃO",Dora e a Cidade Perdida (2019)
+http://chronostv.com:80/movie/michel85leite/trp4d036/100387.mkv
+
+#EXTINF:-1 tvg-name="Doug - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLiRNKv7A145R7pBumPzyJMhTYs.jpg" group-title="FILMES | ANIMAÇÃO",Doug - O Filme
+http://chronostv.com:80/movie/michel85leite/trp4d036/75649.mp4
+
+#EXTINF:-1 tvg-name="Dragonball  Z O Pai De Goku" tvg-logo="https://image.tmdb.org/t/p/w500/TQtQcckcXwkWxcij6JxJiyVXkG.jpg" group-title="FILMES | ANIMAÇÃO",Dragonball  Z O Pai De Goku
+http://chronostv.com:80/movie/michel85leite/trp4d036/54663.mp4
+
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgdpO2FE5B1pqOa6e9PPaDeFl3U.jpg" group-title="FILMES | ANIMAÇÃO",Em Busca do Vale Encantado (1988)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54653.mp4
+
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado II: A Grande Aventura Do Vale (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQbzMp86i46ceay0m1X4miGMgcy.jpg" group-title="FILMES | ANIMAÇÃO",Em Busca do Vale Encantado II: A Grande Aventura Do Vale (1994)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54652.mp4
+
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado IV: Viagem Através Da Névoa (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS3iH0zYESdKa1dv8vXY2QdTKbv.jpg" group-title="FILMES | ANIMAÇÃO",Em Busca do Vale Encantado IV: Viagem Através Da Névoa (1996)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54651.mp4
+
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado VI: O Segredo Do Rochedo (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIh5CGs3QQ56cHd98YD01xPcesq.jpg" group-title="FILMES | ANIMAÇÃO",Em Busca do Vale Encantado VI: O Segredo Do Rochedo (1998)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54650.mp4
+
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado VII: A Pedra do Fogo Frio (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlfYHmDVm7HZcA87w1uY6KYuiQ7.jpg" group-title="FILMES | ANIMAÇÃO",Em Busca do Vale Encantado VII: A Pedra do Fogo Frio (2000)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54649.mp4
+
+#EXTINF:-1 tvg-name="Emoji: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="FILMES | ANIMAÇÃO",Emoji: O Filme (2017)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54648.mp4
+
+#EXTINF:-1 tvg-name="Encantado (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/226gLQXTTcUkjCSh8xM3hRMyKIO.jpg" group-title="FILMES | ANIMAÇÃO",Encantado (2002)
+http://chronostv.com:80/movie/michel85leite/trp4d036/93871.mp4
+
+#EXTINF:-1 tvg-name="Enrolados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52eHrAJb6OeZWkk392VfqbUAauZ.jpg" group-title="FILMES | ANIMAÇÃO",Enrolados
+http://chronostv.com:80/movie/michel85leite/trp4d036/76656.mp4
+
+#EXTINF:-1 tvg-name="Esquadrão Suicida: Acerto de Contas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yN0FcOB2AljeaqeA8UOz0PQDuC.jpg" group-title="FILMES | ANIMAÇÃO",Esquadrão Suicida: Acerto de Contas
+http://chronostv.com:80/movie/michel85leite/trp4d036/83600.mkv
+
+#EXTINF:-1 tvg-name="Fantástica - Uma Aventura no Mundo Boonie Bears" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg2ixwNGT1FHsKpGVWSBw49aF8y.jpg" group-title="FILMES | ANIMAÇÃO",Fantástica - Uma Aventura no Mundo Boonie Bears
+http://chronostv.com:80/movie/michel85leite/trp4d036/82730.mkv
+
+#EXTINF:-1 tvg-name="Final Fantasy VII: Advent Children" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCBupSggMV5770ugMC8y1L6BZZ0.jpg" group-title="FILMES | ANIMAÇÃO",Final Fantasy VII: Advent Children
+http://chronostv.com:80/movie/michel85leite/trp4d036/76577.mp4
+
+#EXTINF:-1 tvg-name="Fixies migos Secretos" tvg-logo="https://i.imgur.com/BrhYlS5.png" group-title="FILMES | ANIMAÇÃO",Fixies migos Secretos
+http://chronostv.com:80/movie/michel85leite/trp4d036/76861.mp4
+
+#EXTINF:-1 tvg-name="Flicka (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ymwrFId2z9W8yC1xpxfX7Oaj2C.jpg" group-title="FILMES | ANIMAÇÃO",Flicka (2006)
+http://chronostv.com:80/movie/michel85leite/trp4d036/54644.mp4
+
+#EXTINF:-1 tvg-name="9 Canções (2004) LEG" tvg-logo="http://i.imgur.com/HI6wv6S.jpg" group-title="FILMES ON DEMAND",9 Canções (2004) LEG
+https://tinyurl.com/vxxnkko
+
+#EXTINF:-1 tvg-name="Calígula (1979) LEG" tvg-logo="http://i.imgur.com/HjsEI0G.jpg" group-title="FILMES ON DEMAND",Calígula (1979) LEG
+https://tinyurl.com/vca2erm
+
+#EXTINF:-1 tvg-name="Love (2015) LEG" tvg-logo="http://i.imgur.com/GFJMXAj.jpg" group-title="FILMES ON DEMAND",Love (2015) LEG
+https://tinyurl.com/vfx54vw
+
+#EXTINF:-1 tvg-name="Lúcia e o Sexo (2001) LEG" tvg-logo="http://i.imgur.com/1Fu3rMU.jpg" group-title="FILMES ON DEMAND",Lúcia e o Sexo (2001) LEG
+https://tinyurl.com/vb592o4
+
+#EXTINF:-1 tvg-name="Monamour (2006) LEG" tvg-logo="http://i.imgur.com/44YZ6Dp.jpg" group-title="FILMES ON DEMAND",Monamour (2006) LEG
+https://tinyurl.com/rfdxgql
+
+#EXTINF:-1 tvg-name="Monella A Travessa (1998) LEG" tvg-logo="http://i.imgur.com/8qkItOy.jpg" group-title="FILMES ON DEMAND",Monella A Travessa (1998) LEG
+https://tinyurl.com/rvs6fte
+
+#EXTINF:-1 tvg-name="Ninfomaníaca Volume 1 (2013) LEG" tvg-logo="http://i.imgur.com/pGKlgny.jpg" group-title="FILMES ON DEMAND",Ninfomaníaca Volume 1 (2013) LEG
+https://tinyurl.com/udgu8rq
+
+#EXTINF:-1 tvg-name="Ninfomaníaca Volume 2 (2014) LEG" tvg-logo="http://i.imgur.com/MQLc9er.jpg" group-title="FILMES ON DEMAND",Ninfomaníaca Volume 2 (2014) LEG
+https://tinyurl.com/un9juqd
+
+#EXTINF:-1 tvg-name="Shortbus (2006) LEG" tvg-logo="http://i.imgur.com/SkruTyj.jpg" group-title="FILMES ON DEMAND",Shortbus (2006) LEG
+https://tinyurl.com/wtw5zmc
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="FILME E HBO",HBO
+http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="FILME E HBO",HBO 2
+http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="FILME E HBO",HBO 2 FHD
+http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="FILME E HBO",HBO 2 HD
+http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="FILME E HBO",HBO 2 HD
+http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="FILME E HBO",HBO FHD
+http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="FILME E HBO",HBO FHD
+http://lb.kstream.org/aovivo/FHD_HBO_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="FILME E HBO",HBO Family
+http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Family FHD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="FILME E HBO",HBO Family FHD
+http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="FILME E HBO",HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="FILME E HBO",HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="FILME E HBO",HBO HD
+http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="FILME E HBO",HBO HD
+http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="FILME E HBO",HBO HD
+http://lb.kstream.org/aovivo/HD_HBO_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="FILME E HBO",HBO Mundi
+http://lb.kstream.org/aovivo/SD_HBO_MUNDI/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="FILME E HBO",HBO Mundi FHD
+http://lb.kstream.org/aovivo/FHD_HBO_MUNDI/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="FILME E HBO",HBO Mundi FHD
+http://lb.kstream.org/aovivo/FHD_HBO_MUNDI_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="FILME E HBO",HBO Mundi HD
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="FILME E HBO",HBO Mundi HD
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="FILME E HBO",HBO Mundi HD
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="FILME E HBO",HBO POP
+http://lb.kstream.org/aovivo/SD_HBO_POP/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO POP FHD" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="FILME E HBO",HBO POP FHD
+http://lb.kstream.org/aovivo/FHD_HBO_POP/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO POP FHD" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="FILME E HBO",HBO POP FHD
+http://lb.kstream.org/aovivo/FHD_HBO_POP_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="FILME E HBO",HBO POP HD
+http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="FILME E HBO",HBO POP HD
+http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="FILME E HBO",HBO POP HD
+http://lb.kstream.org/aovivo/HD_HBO_POP_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="FILME E HBO",HBO Plus
+http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Plus FHD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="FILME E HBO",HBO Plus FHD
+http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Plus FHD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="FILME E HBO",HBO Plus FHD
+http://lb.kstream.org/aovivo/FHD_HBO_PLUS_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Plus HD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="FILME E HBO",HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Plus HD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="FILME E HBO",HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Plus HD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="FILME E HBO",HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="FILME E HBO",HBO Signature
+http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="FILME E HBO",HBO Signature FHD
+http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="FILME E HBO",HBO Signature FHD
+http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="FILME E HBO",HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="FILME E HBO",HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="FILME E HBO",HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_LEG/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" group-title="FILME E HBO",HBO Xtreme
+http://lb.kstream.org/aovivo/SD_HBO_XTREME/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Xtreme FHD" tvg-logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" group-title="FILME E HBO",HBO Xtreme FHD
+http://lb.kstream.org/aovivo/FHD_HBO_EXTREME/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" group-title="FILME E HBO",HBO Xtreme HD
+http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" group-title="FILME E HBO",HBO Xtreme HD
+http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=ef1b72c718b7454b6f63e52b65a6edc8
+#EXTINF:-1 tvg-name="TV UNIÃO (CE)" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="ABERTOS",TV UNIÃO (CE)
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-1.png" group-title="ABERTOS",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
+#EXTINF:-1 tvg-name="REDETV TO" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="ABERTOS",REDETV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
+
+
+
+
+
+
